@@ -10,6 +10,6 @@ public class Demand {
     private String workingOffice;
     private String staffingOffice;
     private int number;
-    private String stack;
+    private TechStack stack;
     private Opportunity opportunity;
 }
